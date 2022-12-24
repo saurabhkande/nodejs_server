@@ -10,7 +10,7 @@
   },
   "scripts": {
     
-	"lint": "eslint -f json -o eslint-report.json .; exit 0"
+	"lint": "eslint -f json -o eslint-report-server.json .; exit 0"
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
